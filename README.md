@@ -1,7 +1,7 @@
 # 🚀 KardPay Auto Referral Bot
 
 <div align="center">
-  <img src="screenshot.png" alt="KardPay Bot">
+  <img src="ss.png" alt="KardPay Bot">
 </div>
 
 ## 📝 Description
